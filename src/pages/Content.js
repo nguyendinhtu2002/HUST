@@ -21,28 +21,28 @@ export function Content() {
                 </div>
                 <div id="2" className="relative ">
                     <div id="img" className="relative ">
-                    <img width="280"  src="https://soict.hust.edu.vn/wp-content/uploads/DAT01879.jpg" class="attachment-medium size-medium wp-post-image h-40" alt="" loading="lazy"/>                        <div className="absolute left-0 bottom-0 bg-red-700">
+                        <img width="280" src="https://soict.hust.edu.vn/wp-content/uploads/DAT01879.jpg" class="attachment-medium size-medium wp-post-image h-40" alt="" loading="lazy" />                        <div className="absolute left-0 bottom-0 bg-red-700">
                             <p className=" text-white uppercase font-bold text-xs p-2 ">Tin bài</p>
                         </div>
                     </div>
                     <div id="text">
 
-                        <h5 className="font-medium leading-tight text-1xl mt-0 mb-2 pt-3">️TỔNG KẾT ĐẠI HỘI ĐẠI BIỂU ĐOÀN <br/>THANH NIÊN TRƯỜNG CÔNG NGHỆ</h5>
-                        <p className="text-sm pt-3">️Vào hồi 14h ngày 07/05/2022 tại Hội trường<br/>dốc tòa nhà B1, được sự đồng ý của Đoàn<br/>thanh niên Trường Đại...</p>
+                        <h5 className="font-medium leading-tight text-1xl mt-0 mb-2 pt-3">️TỔNG KẾT ĐẠI HỘI ĐẠI BIỂU ĐOÀN <br />THANH NIÊN TRƯỜNG CÔNG NGHỆ</h5>
+                        <p className="text-sm pt-3">️Vào hồi 14h ngày 07/05/2022 tại Hội trường<br />dốc tòa nhà B1, được sự đồng ý của Đoàn<br />thanh niên Trường Đại...</p>
                     </div>
 
                 </div>
 
                 <div id="3" className="relative b">
                     <div id="img" className="relative ">
-                    <img width="280" src="https://soict.hust.edu.vn/wp-content/uploads/HoiThaoVinBigdata.jpg" class="attachment-medium size-medium wp-post-image h-40" alt="" loading="lazy"/>                       <div className="absolute left-0 bottom-0 bg-red-700">
+                        <img width="280" src="https://soict.hust.edu.vn/wp-content/uploads/HoiThaoVinBigdata.jpg" class="attachment-medium size-medium wp-post-image h-40" alt="" loading="lazy" />                       <div className="absolute left-0 bottom-0 bg-red-700">
                             <p className=" text-white uppercase font-bold text-xs p-2 ">Tin bài</p>
                         </div>
                     </div>
                     <div id="text">
 
                         <h5 className="font-medium leading-tight text-1xl mt-0 mb-2 pt-3">SOICT đồng hành và hỗ trợ sinh viên <br />Nguyễn Văn Quyền</h5>
-                        <p className="text-sm pt-3">NẮM BẮT CƠ HỘI TRỞ THÀNH KỸ SƯ AI <br/> VINGROUP Nếu bạn đang băn khoăn về việc <br/>ứng tuyển tham gia chương...</p>
+                        <p className="text-sm pt-3">NẮM BẮT CƠ HỘI TRỞ THÀNH KỸ SƯ AI <br /> VINGROUP Nếu bạn đang băn khoăn về việc <br />ứng tuyển tham gia chương...</p>
                     </div>
 
                 </div>
@@ -56,15 +56,13 @@ export function Content() {
                     <div id="text">
 
                         <h5 className="font-medium leading-tight text-1xl mt-0 mb-2 pt-3">SOICT đồng hành và hỗ trợ sinh viên <br />Nguyễn Văn Quyền</h5>
-                        <p className="text-sm pt-3">I. MỤC ĐÍCH Hội nghị Sinh viên nghiên cứu <br/> khoa học (SV NCKH) là sự kiện thường niên <br/> được tổ chức tại Trường...</p>
+                        <p className="text-sm pt-3">I. MỤC ĐÍCH Hội nghị Sinh viên nghiên cứu <br /> khoa học (SV NCKH) là sự kiện thường niên <br /> được tổ chức tại Trường...</p>
                     </div>
 
                 </div>
 
             </div>
-            <div classname="bg-red-600">
-                <h5 className="text-center">Xem thêm tin tức</h5>
-            </div>
+           
         </div>
     )
 }
