@@ -9,6 +9,8 @@ import { CuuSv } from './pages/CuuSv';
 import { Banner } from './pages/Banner';
 import { Footer } from './pages/Footer';
 import { Talk } from './pages/Talk';
+import { Contact } from './pages/Contact';
+import { Video } from './pages/Video';
 function App() {
   return (
   
@@ -22,8 +24,10 @@ function App() {
       <Banner/>
       <CuuSv/>
       <Talk />
+      <Contact/>
+      <Video />
       <Footer/>
-
+    
 
     </div>
     

@@ -28,14 +28,14 @@ export function Slider() {
         <div class="carousel-item relative float-left w-full">
           <img
             src={Anh3}
-            class="block w-full h-96"
+            class="block w-full"
             alt="Exotic Fruits"
           />
         </div>
         <div class="carousel-item relative float-left w-full">
           <img
             src={Anh4}
-            class="block w-full h-96"
+            class="block w-full"
             alt="Exotic Fruits"
           />
         </div>

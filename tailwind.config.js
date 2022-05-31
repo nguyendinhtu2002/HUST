@@ -3,9 +3,12 @@ module.exports = {
   plugins: [
     require('tw-elements/dist/plugin')
   ],
+  
   theme:{
-    // backgroundImage: {
-    //   'banner-top': "url('images/banner.jpg')",
-    // }
+    extends:{
+      spacing:{
+        '1px':'1px'
+      }
+    }
   }
 }
