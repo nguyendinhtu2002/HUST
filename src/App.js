@@ -8,6 +8,7 @@ import { DaoTao } from './pages/Daotao';
 import { CuuSv } from './pages/CuuSv';
 import { Banner } from './pages/Banner';
 import { Footer } from './pages/Footer';
+import { Talk } from './pages/Talk';
 function App() {
   return (
   
@@ -20,6 +21,7 @@ function App() {
       <DaoTao/>
       <Banner/>
       <CuuSv/>
+      <Talk />
       <Footer/>
 
 
